@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "56435296644",
+    "project_id": "fir-email-and-pass",
+    "storage_bucket": "fir-email-and-pass.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56435296644:android:45ad4a59f85ec6de4a35d1",
+        "android_client_info": {
+          "package_name": "com.example.femailauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56435296644-e3ep2s3qv6uej17tddsqk8cqikinf9ju.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.femailauth",
+            "certificate_hash": "d08eb8e5b6b66a4c8407519ebbcb15a29033cde6"
+          }
+        },
+        {
+          "client_id": "56435296644-72tpbh0k3bbu8918hr1peo3m005drndk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6TNutNSIka__Gyutj-nOhZu1tsPf9qjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56435296644-72tpbh0k3bbu8918hr1peo3m005drndk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
